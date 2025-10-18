@@ -1,0 +1,133 @@
+Hi, welcome to my program :)
+Please enter a command:
+
+The line you entered is:
+read_comp G,3.1, 6.5
+Undefined complex variable
+
+Please enter a command:
+
+The line you entered is:
+read_comp a,3.6, 5.1
+Undefined complex variable
+
+Please enter a command:
+
+The line you entered is:
+do_it A, B
+Undefined command name
+
+Please enter a command:
+
+The line you entered is:
+Add_comp A, C
+Undefined command name
+
+Please enter a command:
+
+The line you entered is:
+read_comp A,3.5, xyz
+Invalid parameter - not a number
+
+Please enter a command:
+
+The line you entered is:
+read_comp A, 3.5
+Missing comma
+
+Please enter a command:
+
+The line you entered is:
+read_comp A, 3.5, -3,
+Extraneous text after end of command
+
+Please enter a command:
+
+The line you entered is:
+add_comp B
+Missing comma
+
+Please enter a command:
+
+The line you entered is:
+print_comp C,D
+Extraneous text after end of command
+
+Please enter a command:
+
+The line you entered is:
+sub_comp F,,D
+Multiple consecutive commas
+
+Please enter a command:
+
+The line you entered is:
+mult_comp_comp F D
+Missing comma
+
+Please enter a command:
+
+The line you entered is:
+mult_comp_real, A, 2.5
+Illegal comma
+
+Please enter a command:
+
+The line you entered is:
+mult_comp_img A, B
+Invalid parameter - not a number
+
+Please enter a command:
+
+The line you entered is:
+abs_comp
+Missing parameter
+
+Please enter a command:
+
+The line you entered is:
+abs_comp 2.5
+Undefined complex variable
+
+Please enter a command:
+
+The line you entered is:
+stop A
+Extraneous text after end of command
+
+Please enter a command:
+
+The line you entered is:
+read comp A,9,6
+Undefined command name
+
+Please enter a command:
+
+The line you entered is:
+
+(blank line)
+
+Please enter a command:
+
+The line you entered is:
+       do_it A, B
+Undefined command name
+
+Please enter a command:
+
+The line you entered is:
+
+(blank line)
+
+Please enter a command:
+
+The line you entered is:
+
+(blank line)
+
+Please enter a command:
+
+The line you entered is:
+stop
+You are done using the program,
+I hope you had fun :)

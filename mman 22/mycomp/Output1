@@ -1,0 +1,148 @@
+Hi, welcome to my program :)
+Please enter a command:
+
+The line you entered is:
+  print_comp A 
+0.000000 + (0.000000)i
+
+Please enter a command:
+
+The line you entered is:
+			print_comp	 B 
+0.000000 + (0.000000)i
+
+Please enter a command:
+
+The line you entered is:
+    print_comp C 
+0.000000 + (0.000000)i
+
+Please enter a command:
+
+The line you entered is:
+   read_comp  A, 45.1		, -23.75      
+
+Please enter a command:
+
+The line you entered is:
+	print_comp        A 
+45.100000 - (23.750000)i
+
+Please enter a command:
+
+The line you entered is:
+  		read_comp B, 54.2, 3.56 
+
+Please enter a command:
+
+The line you entered is:
+print_comp B 
+54.200000 + (3.560000)i
+
+Please enter a command:
+
+The line you entered is:
+            read_comp C,      0,   -1 
+
+Please enter a command:
+
+The line you entered is:
+print_comp C 
+0.000000 - (1.000000)i
+
+Please enter a command:
+
+The line you entered is:
+		add_comp A, B 
+99.300000 - (20.190000)i
+
+Please enter a command:
+
+The line you entered is:
+         	
+(blank line)
+
+Please enter a command:
+
+The line you entered is:
+	sub_comp C,    A
+-45.100000 + (22.750000)i
+
+Please enter a command:
+
+The line you entered is:
+  sub_comp 	B  	, B
+0.000000 + (0.000000)i
+
+Please enter a command:
+
+The line you entered is:
+ sub_comp D, A
+-45.100000 + (23.750000)i
+
+Please enter a command:
+
+The line you entered is:
+ mult_comp_real A, 2.51
+113.201000 - (59.612500)i
+
+Please enter a command:
+
+The line you entered is:
+ 			mult_comp_img A, -2.564
+-60.895000 - (115.636400)i
+
+Please enter a command:
+
+The line you entered is:
+ mult_comp_comp A, B
+2528.970000 - (1126.694000)i
+
+Please enter a command:
+
+The line you entered is:
+ 		mult_comp_comp    E   ,     C
+0.000000 + (0.000000)i
+
+Please enter a command:
+
+The line you entered is:
+ abs_comp A 
+50.971291
+
+Please enter a command:
+
+The line you entered is:
+      abs_comp B
+54.316789
+
+Please enter a command:
+
+The line you entered is:
+ abs_comp C 
+1.000000
+
+Please enter a command:
+
+The line you entered is:
+   abs_comp F 
+0.000000
+
+Please enter a command:
+
+The line you entered is:
+
+(blank line)
+
+Please enter a command:
+
+The line you entered is:
+          
+(blank line)
+
+Please enter a command:
+
+The line you entered is:
+stop
+You are done using the program,
+I hope you had fun :)

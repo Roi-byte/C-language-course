@@ -1,0 +1,16 @@
+Hello, welcome to my program, 
+Please be aware that the number of nodes in the tree is N = 5
+
+Please enter values for the 5*5 adjmat matrix, enter only values of 1 or 0:
+
+The matrix you entered is:
+0	0	0	0	0
+0	0	0	0	0
+1	0	0	0	1
+0	1	1	0	0
+0	0	0	0	0
+
+Please enter two indexes, enter -1 -1 in order to stop the program
+
+You are done using the program,
+I hope you had fun :)
