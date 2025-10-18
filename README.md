@@ -1,9 +1,9 @@
-C-language-course:
+## C-language-course:
 
 Coded by Roi-byte, this repository contains all my projects and exercises from my C programming course — each earning a perfect score (100).
 The collection demonstrates a strong understanding of ANSI C (C90), built and tested entirely in a Linux (Ubuntu) environment.
 
-Features:
+## Features:
 
 Comprehensive coverage of C programming fundamentals:
 
